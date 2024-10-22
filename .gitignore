@@ -1,0 +1,30 @@
+# tf local state files
+*.tfstate
+*.tfstate.*
+
+# tf crash log files
+crash.log
+
+# Tf variable override files
+*.tfvars
+*.tfvars.json
+
+# tf plan output files
+*.tfplan
+
+# .tf directory (contains tf working directory settings)
+.tf/
+
+# Sensitive or private data files (if any)
+*.tfvars
+*.tfvars.json
+
+# others
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.backup
+.vscode/
+*.swp
