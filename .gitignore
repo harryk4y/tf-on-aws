@@ -12,8 +12,13 @@ crash.log
 # tf plan output files
 *.tfplan
 
+# caches
+.terraform/
+.terraform.lock.hcl
+
 # .tf directory (contains tf working directory settings)
 .tf/
+.terraform/
 
 # Sensitive or private data files (if any)
 *.tfvars

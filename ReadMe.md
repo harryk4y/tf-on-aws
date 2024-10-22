@@ -1,4 +1,4 @@
-This is basically a refreshser of AWS on Terraform
+This is basically a refreshser of AWS on Terraform (took a minor break from devops and focused solely on software dev)
 
 This is from a tf on aws workshop - [click here for the link](https://catalog.us-east-1.prod.workshops.aws/workshops/41c5a1b6-bd3e-41f4-bd46-85ab7dc6dad4/en-US/0-introduction)
 
