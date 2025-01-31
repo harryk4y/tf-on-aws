@@ -1,8 +1,9 @@
-This is basically a refreshser of AWS on Terraform (took a minor break from devops and focused solely on software dev)
+In this workshop, Terraform was used as the Infrastructure as Code (IaC) tool to deploy a highly available Wordpress application in a single region. It will be configured to leverage a Multi-AZ (data replication across multiple AZs) MySQL database and an auto-scaler based on CPU utilization for web hosting.
+
+This is basically a refresher of AWS on Terraform (took a minor break from devops and focused solely on software development)
 
 This is from a tf on aws workshop - [click here for the link to workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/41c5a1b6-bd3e-41f4-bd46-85ab7dc6dad4/en-US/0-introduction)
 
-In this workshop, Terraform was used as the Infrastructure as Code (IaC) tool to deploy a highly available Wordpress application in a single region. It will be configured to leverage a Multi-AZ (data replication across multiple AZs) MySQL database and an auto-scaler based on CPU utilization for web hosting.
 
 <h4> Architecture </h4>
 
